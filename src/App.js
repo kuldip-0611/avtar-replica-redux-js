@@ -13,10 +13,10 @@ function App() {
   const [modalShow, setModalShow] = useState(false);
   return (
     <div className="App">
-      {/* <CrudCard />
-      <EditForm /> */}
+      <CrudCard />
+      <EditForm />
 
-      <FormUsinfFormik />
+      {/* <FormUsinfFormik /> */}
 
     
       
